@@ -4,3 +4,6 @@
 
 .idea
 playground-web-parent.iml
+*.iml
+*.class
+**/target/*
